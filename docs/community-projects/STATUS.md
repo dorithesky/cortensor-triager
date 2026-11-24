@@ -4,7 +4,7 @@
 **Category:** apps (maintainer tooling)
 **Owner:** @dorithesky
 **Collaborators:** —
-**Repository:** https://github.com/dorithesky/repo-triager
+**Repository:** https://github.com/dorithesky/cortensor-triager
 **Demo:** `demo.mp4` (2:34, offline run, English narration) — shot list and rebuild steps in `docs/DEMO.md`
 
 ## What works today

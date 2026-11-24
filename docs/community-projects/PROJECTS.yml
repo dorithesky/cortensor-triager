@@ -10,5 +10,5 @@
     issue, classifies severity, component, type and duplicates against the repository's
     own label taxonomy, drafts the maintainer's reply, and stages the plan only after
     OpenMinion's action policy approves the write tool. Nothing is ever sent to GitHub.
-  repository: https://github.com/dorithesky/repo-triager
+  repository: https://github.com/dorithesky/cortensor-triager
   hackathon: Cortensor Hackathon #5 (DoraHacks #2418)

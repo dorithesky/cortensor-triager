@@ -442,7 +442,7 @@ def build_scenes() -> list[dict]:
                 "",
                 "  " + pytest_line.strip() + "        (no API key, no network)",
                 "",
-                "§ Repo Triager — github.com/dorithesky/repo-triager · MIT",
+                "§ Repo Triager — github.com/dorithesky/cortensor-triager · MIT",
                 "  OpenMinion 0.1.24  ·  Cortensor Hackathon #5  ·  DoraHacks #2418",
             ],
             highlight=["RESULT:", "passed in", "github.com/"],

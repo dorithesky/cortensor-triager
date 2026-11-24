@@ -52,7 +52,7 @@ The approval gate has four operator answers, all recorded in the run report:
 ## 2. Quick start
 
 ```bash
-git clone https://github.com/dorithesky/repo-triager && cd repo-triager
+git clone https://github.com/dorithesky/cortensor-triager && cd cortensor-triager
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 

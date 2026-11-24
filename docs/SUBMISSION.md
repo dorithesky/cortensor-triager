@@ -76,7 +76,7 @@ cd cortensor-triager
 git init -b main
 git add -A
 git commit -m "Repo Triager: GitHub issue triage agent on the OpenMinion 0.1 SDK"
-gh repo create dorithesky/repo-triager --public --source=. --push
+gh repo create dorithesky/cortensor-triager --public --source=. --push
 ```
 
 **Checked 2026-11-24:** the connected GitHub credential is a GitHub App installation token
@@ -148,7 +148,7 @@ Demo video (1–5 min): `apps/repo-triager/demo.mp4` (also linked from the DoraH
 
 1. **Create the repository.** Checked 2026-11-24: the connected GitHub credential cannot
    create repositories (`403 Resource not accessible by integration`). Create an empty
-   public `dorithesky/repo-triager` (no README, no .gitignore, no licence) and the push,
+   public `dorithesky/cortensor-triager` (no README, no .gitignore, no licence) and the push,
    the PR and the video link follow.
 2. **Video upload.** `demo.mp4` (2:34, 5.3 MB) is built and verified. DoraHacks needs it
    uploaded to the BUIDL page; the file also goes into the repository so the PR body can
